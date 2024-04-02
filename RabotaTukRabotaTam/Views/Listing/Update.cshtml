@@ -1,0 +1,30 @@
+﻿@model UpdateListingViewModel
+@{}
+<h1>Edit Listing</h1>
+<form method="post" action="View" class="mt-5">
+    <div class="mb-3">
+        <label for=" " class="form-label">Category</label>
+        <input type="text" class="form-control" asp-for="Category">
+    </div>
+    <div class="mb-3">
+        <label for=" " class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="Name">
+    </div>
+
+    <div class="mb-3">
+        <label for=" " class="form-label">Description</label>
+        <input type="text" class="form-control" asp-for="Description">
+    </div>
+    <div class="mb-3">
+        <label for=" " class="form-label">Location</label>
+        <input type="text" class="form-control" asp-for="Location">
+    </div>
+    <div class="mb-3">
+        <label for=" " class="form-label">Salary</label>
+        <input type="text" class="form-control" asp-for="Salary">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    <button type ="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Employees">Delete</button>
+</form>
