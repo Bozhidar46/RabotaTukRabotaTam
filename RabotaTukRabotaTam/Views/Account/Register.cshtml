@@ -1,8 +1,8 @@
-﻿@*@model RegisterViewModel​
+﻿@model RegisterViewModel​
 
-@{​
+@{
 
-    ViewData["Title"] = "Register";​
+    ViewData["Title"] = "Register";
 
 }​
 
@@ -26,31 +26,21 @@
 
             <div class="form-floating">​
 
-                <input asp-for="FirstName" class="form-control" autocomplete="firstname" aria-required="true" />​
+                <input asp-for="UserName" class="form-control" autocomplete="firstname" aria-required="true" />​
 
-                <label asp-for="FirstName"></label>​
+                <label asp-for="UserName"></label>​
 
-                <span asp-validation-for="FirstName" class="text-danger"></span>​
+                <span asp-validation-for="UserName" class="text-danger"></span>​
 
-            </div>​
-
-            <div class="form-floating">​
-
-                <input asp-for="LastName" class="form-control" autocomplete="lastname" aria-required="true" />​
-
-                <label asp-for="LastName"></label>​
-
-                <span asp-validation-for="LastName" class="text-danger"></span>​
-
-            </div>​
+            </div>
 
             <div class="form-floating">​
 
-                <input asp-for="Email" class="form-control" autocomplete="email" aria-required="true" />​
+                <input asp-for="EmailAddress" class="form-control" autocomplete="email" aria-required="true" />​
 
-                <label asp-for="Email"></label>​
+                <label asp-for="EmailAddress"></label>​
 
-                <span asp-validation-for="Email" class="text-danger"></span>​
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>​
 
             </div>​
 
@@ -66,11 +56,11 @@
 
             <div class="form-floating">​
 
-                <input asp-for="PasswordRepeat" class="form-control" autocomplete="new-password" aria-required="true" />​
+                <input asp-for="ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />​
 
-                <label asp-for="PasswordRepeat"></label>​
+                <label asp-for="ConfirmPassword"></label>​
 
-                <span asp-validation-for="PasswordRepeat" class="text-danger"></span>​
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>​
 
             </div>​
 
@@ -78,4 +68,4 @@
 
         </form>​
 
-    </div>​*@
+    </div>​
