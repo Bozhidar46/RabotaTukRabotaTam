@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Rabota_tuk__rabota_tam.Data.Models;
 using RabotaTukRabotaTam.Data;
@@ -27,6 +28,7 @@ namespace Rabota_tuk__rabota_tam.Controllers
 
         [HttpGet]
         public async Task<IActionResult> Add() {
+            ViewBag.CategoryId = new SelectList(context.Categories, "Id", "Name");
             return View();
         }
 

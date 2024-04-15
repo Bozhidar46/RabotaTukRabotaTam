@@ -89,7 +89,7 @@ namespace Rabota_tuk__rabota_tam.Controllers
             {
                 return View(model);
             }
-            var user = await userManager.FindByNameAsync(model.UserName);
+            var user = await userManager.FindByNameAsync(model.Email);
             if (user != null)
             {
                 var result = await signInManager.PasswordSignInAsync(user, model.Password, false, false);
