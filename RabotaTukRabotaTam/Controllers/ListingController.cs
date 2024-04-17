@@ -42,7 +42,8 @@ namespace Rabota_tuk__rabota_tam.Controllers
                 Description=model.Description,
                 Location=model.Location,
                 Salary=model.Salary,
-                
+                Category=model.Category,
+                FirmName=model.FirmName
 
             };
             await context.Listings.AddAsync(listing);
@@ -64,6 +65,8 @@ namespace Rabota_tuk__rabota_tam.Controllers
                     Description = listing.Description,
                     Location = listing.Location,
                     Salary = listing.Salary,
+                    Category=listing.Category,
+                    FirmName=listing.FirmName
                 };
                 return await Task.Run(() => View("View", viewModel));
             }
