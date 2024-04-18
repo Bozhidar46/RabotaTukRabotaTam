@@ -1,0 +1,25 @@
+﻿@model IEnumerable<CategoryViewModel>
+
+@{
+    ViewBag.Title = "All categories";
+}
+
+<div class="text-center row">
+    @foreach (var category in Model)
+    {
+        <div class="card col-4" style="width: 20rem;">
+            <img class="card-img-top" style="width: 17rem; height: 23rem"
+                 src="@category.ImgURL" alt="Category Image">
+            <div class="card-body">
+
+                <h4 class="card-title mt-1">@category.Name</h4>
+                
+            </div>
+
+            <a class="btn btn-info" asp-controller="Listing" asp-action="AllListingsByCategory" asp-route-categoryId=@category.Id>Listings</a>
+            
+        </div>
+    }
+</div>
+
+
