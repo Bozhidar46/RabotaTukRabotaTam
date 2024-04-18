@@ -20,6 +20,8 @@ namespace RabotaTukRabotaTam.Models
         public double Salary { get; set; }
         [Required]
         public Category Category { get; set; }
+        [Required]
+        public string FirmName { get; set; }
         public List<User> Applicants { get; set; }
     }
 }
