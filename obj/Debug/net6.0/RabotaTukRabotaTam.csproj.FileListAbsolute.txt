@@ -1,0 +1,385 @@
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.staticwebassets.runtime.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.exe
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.deps.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.runtimeconfig.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.AssemblyReference.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfoInputs.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfo.cs
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cs
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.RabotaTukRabotaTam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.build.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\bundle\RabotaTukRabotaTam.styles.css
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\projectbundle\RabotaTukRabotaTam.bundle.scp.css
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CopyComplete
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\refint\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.genruntimeconfig.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\ref\RabotaTukRabotaTam.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.AssemblyReference.cache
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfoInputs.cache
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfo.cs
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CoreCompileInputs.cache
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cache
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cs
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\refint\RabotaTukRabotaTam.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.staticwebassets.runtime.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.exe
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.deps.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.runtimeconfig.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Humanizer.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.RabotaTukRabotaTam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.build.RabotaTukRabotaTam.props
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RabotaTukRabotaTam.props
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RabotaTukRabotaTam.props
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\bundle\RabotaTukRabotaTam.styles.css
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\projectbundle\RabotaTukRabotaTam.bundle.scp.css
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CopyComplete
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.genruntimeconfig.cache
+C:\Users\12B_1\Desktop\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\ref\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.staticwebassets.runtime.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.exe
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.deps.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.runtimeconfig.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.AssemblyReference.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfoInputs.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfo.cs
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cs
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.RabotaTukRabotaTam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.build.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\bundle\RabotaTukRabotaTam.styles.css
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\projectbundle\RabotaTukRabotaTam.bundle.scp.css
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CopyComplete
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\refint\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.genruntimeconfig.cache
+C:\Users\Bozhidar\Desktop\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\ref\RabotaTukRabotaTam.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.staticwebassets.runtime.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.exe
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.deps.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.runtimeconfig.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.AssemblyReference.cache
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfoInputs.cache
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfo.cs
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CoreCompileInputs.cache
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cache
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cs
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.RabotaTukRabotaTam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.build.RabotaTukRabotaTam.props
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RabotaTukRabotaTam.props
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RabotaTukRabotaTam.props
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\bundle\RabotaTukRabotaTam.styles.css
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\projectbundle\RabotaTukRabotaTam.bundle.scp.css
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CopyComplete
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\refint\RabotaTukRabotaTam.dll
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.genruntimeconfig.cache
+C:\Users\ЗдравкаДимитрова\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\ref\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\appsettings.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.staticwebassets.runtime.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.exe
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.deps.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.runtimeconfig.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.AssemblyReference.cache
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfoInputs.cache
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.AssemblyInfo.cs
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cache
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.RazorAssemblyInfo.cs
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.RabotaTukRabotaTam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.build.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RabotaTukRabotaTam.props
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\bundle\RabotaTukRabotaTam.styles.css
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\scopedcss\projectbundle\RabotaTukRabotaTam.bundle.scp.css
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.csproj.CopyComplete
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\refint\RabotaTukRabotaTam.dll
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.pdb
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\RabotaTukRabotaTam.genruntimeconfig.cache
+C:\Users\Bozhidar\Downloads\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\obj\Debug\net6.0\ref\RabotaTukRabotaTam.dll

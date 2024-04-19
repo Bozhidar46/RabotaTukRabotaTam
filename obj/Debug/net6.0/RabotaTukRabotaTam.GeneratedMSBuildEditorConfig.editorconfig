@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RabotaTukRabotaTam
+build_property.RootNamespace = RabotaTukRabotaTam
+build_property.ProjectDir = C:\Users\Bozhidar\Desktop\Proekt\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Bozhidar\Desktop\Proekt\RabotaTukRabotaTam (3)\RabotaTukRabotaTam (3)\RabotaTukRabotaTam\RabotaTukRabotaTam\RabotaTukRabotaTam
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Category/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Home/TOS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUT1MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Home/WFU.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXRlUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Listing/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Listing/AllListingsByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xBbGxMaXN0aW5nc0J5Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Listing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Listing/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar/Desktop/Proekt/RabotaTukRabotaTam (3)/RabotaTukRabotaTam (3)/RabotaTukRabotaTam/RabotaTukRabotaTam/RabotaTukRabotaTam/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ev4om4c8lc
