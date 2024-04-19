@@ -11,53 +11,45 @@ namespace Rabota_tuk__rabota_tam.Controllers
     public class AccountController : Controller
     {
         private readonly UserManager<User> userManager;
+
         private readonly SignInManager<User> signInManager;
-        private readonly RoleManager<IdentityRole> roleManager;
 
-        public AccountController(UserManager<User> _userManager, SignInManager<User> _signInManager, RoleManager<IdentityRole> _roleManager)
+        public AccountController(UserManager<User> _userManager, SignInManager<User> _signInManager)
         {
-            this.userManager = _userManager;
-            this.signInManager = _signInManager;
-            this.roleManager = _roleManager;
+            userManager = _userManager;
+            signInManager = _signInManager;
         }
-     /*
-        public async Task<IActionResult> CreatePost()
-        {
-            await roleManager.CreateAsync(new IdentityRole(RoleConstants.Manager));
-            await roleManager.CreateAsync(new IdentityRole(RoleConstants.Supervisor));
-            await roleManager.CreateAsync(new IdentityRole(RoleConstrants.Administrator));
 
-            return RedirectToAction("Index", "Home");
-        }
-     */
+
         [HttpGet]
         [AllowAnonymous]
         public IActionResult Register()
         {
             if (User?.Identity?.IsAuthenticated ?? false)
             {
-                return RedirectToAction("Login", "User");
-
+                return RedirectToAction("Index", "Home");
             }
+
             var model = new RegisterViewModel();
+
             return View(model);
         }
+
         [HttpPost]
         [AllowAnonymous]
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
-
             if (!ModelState.IsValid)
             {
                 return View(model);
             }
             var user = new User()
             {
-                Email = model.EmailAddress,
+                Email = model.Email,
                 UserName = model.UserName
-
             };
             var result = await userManager.CreateAsync(user, model.Password);
+
             if (result.Succeeded)
             {
                 return RedirectToAction("Login", "User");
@@ -69,6 +61,7 @@ namespace Rabota_tuk__rabota_tam.Controllers
             return View(model);
         }
 
+
         [HttpGet]
         [AllowAnonymous]
         public IActionResult Login()
@@ -77,71 +70,74 @@ namespace Rabota_tuk__rabota_tam.Controllers
             {
                 return RedirectToAction("Index", "Home");
             }
+
             var model = new LoginViewModel();
+
             return View(model);
         }
 
         [HttpPost]
         [AllowAnonymous]
-        public async Task<IActionResult> Login(LoginViewModel model)
+        public async Task<IActionResult> Login(LoginViewModel viewModel)
         {
             if (!ModelState.IsValid)
             {
-                return View(model);
+                return View(viewModel);
             }
-            var user = await userManager.FindByNameAsync(model.Email);
+            var user = await userManager.FindByEmailAsync(viewModel.Email);
             if (user != null)
             {
-                var result = await signInManager.PasswordSignInAsync(user, model.Password, false, false);
+                var result = await signInManager.PasswordSignInAsync(user, viewModel.Password, false, false);
                 if (result.Succeeded)
                 {
-                    return RedirectToAction();
+
+                    return RedirectToAction("Index", "Home");
                 }
             }
-            ModelState.AddModelError("", "Invalid Login");
-            return View(model);
+            ModelState.AddModelError("", "Invalid login");
+            return View(viewModel);
         }
-
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
-            return RedirectToAction("Index","Home");
+
+            return RedirectToAction("Index", "Home");
         }
-     /*
-        [Authorize]
-        public async ActionResult Roles()
-        {
-            var currentUser = await userManager.GetUserAsync(this.User);
-            var roles = await userManager.GetRolesAsync(currentUser);
-        }
+        /*
+           [Authorize]
+           public async ActionResult Roles()
+           {
+               var currentUser = await userManager.GetUserAsync(this.User);
+               var roles = await userManager.GetRolesAsync(currentUser);
+           }
 
-        [Authorize]
-        public async ActionResult Data()
-        {
-            var currentUser = await userManager.GetUserAsync(this.User);
-            var currentUserUsername = await userManager.GetUserNameAsync(currentUser);
-            var currentUserId = await userManager.GetUserIdAsync(currentUser);
-        }
+           [Authorize]
+           public async ActionResult Data()
+           {
+               var currentUser = await userManager.GetUserAsync(this.User);
+               var currentUserUsername = await userManager.GetUserNameAsync(currentUser);
+               var currentUserId = await userManager.GetUserIdAsync(currentUser);
+           }
 
-        public async Task<IActionResult> AddUserToRole()
-        {
-            var roleName = "Administrator";
-            var roleExists = await roleManager.RoleExistsAsync(roleName);
+           public async Task<IActionResult> AddUserToRole()
+           {
+               var roleName = "Administrator";
+               var roleExists = await roleManager.RoleExistsAsync(roleName);
 
-            if (roleExists)
-            {
-                var user = await userManager.GetUserAync(User);
-                var result = await userManager.AddToRoleAsync(user, roleName);
+               if (roleExists)
+               {
+                   var user = await userManager.GetUserAync(User);
+                   var result = await userManager.AddToRoleAsync(user, roleName);
 
-                if (result.Succeeded)
-                {
-                    
-                }
-            }
-     
+                   if (result.Succeeded)
+                   {
 
-        }
-       */
+                   }
+               }
+
+
+           }
+          */
     }
 }
 
