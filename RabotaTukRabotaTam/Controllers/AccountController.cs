@@ -45,7 +45,7 @@ namespace Rabota_tuk__rabota_tam.Controllers
             }
             var user = new User()
             {
-                Email = model.Email,
+                Email = model.EmailAddress,
                 UserName = model.UserName
             };
             var result = await userManager.CreateAsync(user, model.Password);
