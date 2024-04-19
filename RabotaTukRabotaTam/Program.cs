@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Rabota_tuk__rabota_tam.Data.Models;
+using RabotaTukRabotaTam.Data.Models;
 using RabotaTukRabotaTam.Data;
 
 namespace RabotaTukRabotaTam

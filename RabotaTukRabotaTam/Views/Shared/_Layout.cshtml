@@ -10,28 +10,25 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3" style="background-color:cadetblue">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light  border-bottom box-shadow mb-3" style="background-color: #73C6B6;">
             <div class="container-fluid">
-                <img src="~/images/RTRTlogo.png" width="60" height="60" />
+                <img src="~/images/RTRT logo.png" width="60" height="60" />
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">RabotaTukRabotaTam</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Listing" asp-action="Add">Add</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Listing" asp-action="Add">Add Listing</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Listing" asp-action="Index">Index</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Listing" asp-action="Update">Update Listing</a>
-                        </li>
+                        
+                        
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
@@ -46,10 +43,15 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - RabotaTukRabotaTam - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-         <a asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a>
+            &copy; 2024 - RabotaTukRabotaTam -
+        
+        <a asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a>
+      
          <a asp-area="" asp-controller="Home" asp-action="About">About Us</a>
-         <a asp-area="" asp-controller="Home" asp-action="TOS">Terms of Service</a>
+            <a asp-area="" asp-controller="Home" asp-action="TOS">Terms of Service</a>
+
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a>
+            <a asp-area="" asp-controller="Home" asp-action="WFU">Work for Us</a>
         </div>
       
     </footer>
