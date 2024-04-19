@@ -1,5 +1,39 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model List<RabotaTukRabotaTam.Data.Models.Listing>;
+
+<body>
+    <h2 class="text-black">Listings:</h2>
+    <hr />
+    <br />
+    <table class="table table-hover text-black">
+        <thead>
+
+            <tr>
+
+                <th>Name</th>
+                <th>Description</th>
+                <th>Location</th>
+                <th>Salary</th>
+                <th>Firm Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.Location</td>
+                    <td>@item.Salary</td>
+                    <td>@item.FirmName</td>
+                    <td>
+                        <a asp-controller="Listing" asp-action="Update" asp-route-id=@item.Id
+                           class="btn btn-success">Apply for a job</a>
+                        <a asp-controller="Listing" asp-action="Delete" asp-route-id=@item.Id
+                           class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
